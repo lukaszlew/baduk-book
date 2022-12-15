@@ -6,7 +6,7 @@ This repository is intended as a aid for baduk lessons and game commentaries giv
 The main goal and techinque is to capure recurring baduk principles and organize them as lessons with examples.
 Each principle will be a separate unit with text and illustrated with examples from multiple games.
 
-# Audience
+## Audience
 
 Most of the content should be useful anywhere from 15k to few dan.
 It would be nice if we could support beginner players that do not have a strong player around.
@@ -63,7 +63,7 @@ For principle illustation, we avoid moves that rely on tactical sequences.
 Wiekszosc tematow i przykladow nie wymaga czytania sekwencji wiec stosuje sie do bardzo szerokiej gamy odbiorcow.
 Cel jest by 20k-3k mialo duzo radochy z czytania.
 
-# Value
+## Value
 
 The unique value of this effort comes from several sources:
 
@@ -72,7 +72,7 @@ The unique value of this effort comes from several sources:
 - Exercises.
 - Crowd sourcing.
 
-# Language
+## Language
 
 The main advantage of english language allows faster creation of the book by allowing a wider family of strong players to contribute.
 The main advantage of other languages allows wider reading audience, especially children to access it.

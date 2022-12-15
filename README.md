@@ -29,6 +29,14 @@ Anegdotki a'la Kageyama sa bardzo istotne. Jako ze ksiazka bedzie na githubie to
 Historyjka motywacyjna o waznosci danego pryncypium.
 O tym nalezy myslec jak o rownoleglym watku fabularnym, luzno przeplatajacym sie z pryncypiami.
 
+## Similar books
+
+The only books that I know that are similar to this project are:
+- [Fundamental Principles of Go](https://www.goodreads.com/en/book/show/1485651.Fundamental_Principles_Of_Go)
+- [Lessons in the Fundamentals of Go](https://www.goodreads.com/book/show/1241950.Lessons_in_the_Fundamentals_of_Go)
+
+If you know other similar books, please let me know!
+
 ## Additional content
 
 Here I (Lukasz Lew) list other ideas that I know how to describe.

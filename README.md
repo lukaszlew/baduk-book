@@ -24,10 +24,15 @@ An automated script will extract all the positions with principle references and
 
 ## Reading ease
 
-Wstep z angdotkami lub historiami a'la fundamental principles Kageyamy. 
-Anegdotki a'la Kageyama sa bardzo istotne. Jako ze ksiazka bedzie na githubie to moze beda chetni by wnosic cos od siebie.
-Historyjka motywacyjna o waznosci danego pryncypium.
-O tym nalezy myslec jak o rownoleglym watku fabularnym, luzno przeplatajacym sie z pryncypiami.
+It is important that the reading is engaging. 
+This can be achieved through various means:
+ - personal stories about the author or
+ - some context on where the example position came from or
+ - motivational story about the value of the current lesson or
+ - strong and colorful language.
+
+The last technique is probably the most useful. 
+"Lessons in the Fundamentals of Go" by Toshiro Kageyama is probably the finest example of these teaching techniques.
 
 ## Similar books
 

@@ -19,7 +19,7 @@ We hope it can be used in several ways:
 When illustrating baduk principles, one needs to give both positive and negative examples of a given principle.
 With only positive examples, while the illusion of teaching is achieved, the effectiveness is low.
 With both positive and negative examples, the reader might feel more confused, but the effectiveness is high.
-[This applies to almost every topic, where learning is without interaction] (https://www.youtube.com/watch?v=eVtCO84MDj8)).
+[This applies to almost every topic, where learning is without interaction](https://www.youtube.com/watch?v=eVtCO84MDj8).
 
 ## Example driven lessons
 

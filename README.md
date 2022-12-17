@@ -1,10 +1,40 @@
 # Baduk lectures
 
-## Basic structure of lectures on baduk principles
+## Baduk principles
 
-This repository is intended as a aid for baduk lessons and game commentaries given by baduk players for other baduk players.
-The main goal and techinque is to capure recurring baduk principles and organize them as lessons with examples.
-Each principle will be a separate unit with text and illustrated with examples from multiple games.
+_Baduk principles_ are recurring themes often repeated in baduk lessons and game commentaries.
+Exmples of principles include "attack from distance" or "play from outside, not inside".
+
+## Goal 
+
+This repository is intended as organization of baduk principles as lessons with examples.
+We hope it can be used in several ways:
+- as an aid for baduk lessons and game commentaries,
+- as a stand-alone baduk book, 
+- as a source of standard vocabulary for discussing baduk principles,
+- as a way to crowd-sources high quality baduk lessons.
+
+## Effective learning
+
+When illustrating baduk principles, one needs to give both positive and negative examples of a given principle.
+With only positive examples, while the illusion of teaching is achieved, the effectiveness is low.
+With both positive and negative examples, the reader might feel more confused, but the effectiveness is high.
+[This applies to almost every topic, where learning is without interaction] (https://www.youtube.com/watch?v=eVtCO84MDj8)).
+
+## Example driven lessons
+
+It is often hard to find negative or positive examples for a given principle. 
+It is _much easier_ for the teacher to indentify which principles apply to a given position.
+
+Because of that we will not try to invent positions for a given principle (or even invent principles).
+Instead we will encourage teachers to refer to principles in SGFs comments and use a program to accumulate all the positions for a given principle.
+This is the "secret souce" of this project.
+
+## Lecture structure
+
+Each principle will be a separate lecture with text and illustrated with example diagrams from multiple games.
+Ideally the principle text should be precise enough and general enough that it applies to 
+Whenever someone comments an example refer to this repo, position should find its way to this repo.
 
 ## Audience
 
@@ -60,6 +90,16 @@ Here I (Lukasz Lew) list other ideas that I know how to describe.
 - Wyjatki, zaskakujace ruchy, slawne ruchy.
 - Przyklady gdzie wydaje sie ze pryncypium mozna zastosowac ale bylby to blad gdyz inne pryncypium jest wazniejsze. 
 - Principle exercises: Find a move for a given principle. Answer on the next page or hidden, perhaps with a commentary or anecdote.
+
+## Positive and negative examples contrast
+
+There are multiple dimensions on which positive examples might be contrasted with negative ones:
+- Fixed position: one position with several moves, discuss which principles apply to which moves and their relative strengths.
+- Fixed principle: one principle with several positions and moves, discsuu to which moves this principle applies and how strongly.
+
+To illustrate subtle diffeneces we can contrast:
+- take two similar principles and disscuss multiple positions where both apply but one or other principle is dominating, leading to a different judgement.
+- take two similar positions and disccuss how multiple principles apply differently.
 
 ## Exercises
 

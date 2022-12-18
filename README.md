@@ -9,6 +9,11 @@ We hope it can be used in several ways:
 - as a way to crowd-sources high quality Go lessons,
 - as a stand-alone Go study resoursce (a book?).
 
+## Audience
+
+Go players that want to learn from all levels.
+Go teachears that what to scale up spreading of Go knowledge in an organized manner.
+
 ## Secret sauce: automation and SGF lessons
 
 Given a Go principle, it is often hard to find negative or positive examples. 
@@ -26,40 +31,36 @@ This way we hope to grow the lessons quickly and outsource the example and princ
 
 When discussing some Go topics during a lesson or a game commentary, a teacher often a comment he made already somewhere else in their life.
 This could be a cue for tagging.
-Whenever we see such a recurring comments an example position could be tagged and through that proposed as a principle.
-Some bad tags: #ai-move, #good-move, #reading, #life-and-death
-Some ok tags: #attack-from-a-distance, #play-from-outside-not-inside, #nakade
+Whenever we see such a recurring comments, an example position could be tagged and through that proposed as a principle.
 
 We will need other mechanism to add information to the last move on an example position.
 E.g.: whether the principle was applied correctly or not, whether the move was good or not, etc.
 It will take a while and some experinence to distill a set of good tags and mechanism to be used for a lesson creation.
 
 It is not essential to get the tag names exactly since the tool will allow tag renaming, ignoring and merging.
+Some bad tags: #ai-move, #good-move, #reading, #life-and-death
+Some ok tags: #attack-from-a-distance, #play-from-outside-not-inside, #nakade
 
 ## Effective learning
 
 ### Example contrasting
 
 When illustrating Go principles, one needs to give both positive and negative examples of a given principle.
-With only positive examples, while the illusion of teaching is achieved, the effectiveness is low.
-With both positive and negative examples, the reader might feel more confused, but the effectiveness is high.
-[This applies to almost every topic, where learning is without interaction](https://www.youtube.com/watch?v=eVtCO84MDj8).
-
-### Skill decomposition
-
-Deliberate practice teaches us that it is most effective to practice skills separate (e.g. practicing musical scales in isolation).
+With only positive examples, while the illusion of teaching is achieved, the effectiveness might be low.
+With both positive and negative examples, the reader might feel more confused, but the effectiveness of the lesson might be higher.
+[This applies not only to Go, but whenever the learning is done without a teacher interaction](https://www.youtube.com/watch?v=eVtCO84MDj8).
 
 ### Exercises
 
 Exercises are essential for learning. 
 We aim to make the autmated tool support that, but we don't know how yet.
 
-## Audience
+### Skill decomposition
 
-Go players that want to learn from all levels.
-Go teachears that what to scale up spreading of Go knowledge in an organized manner.
+Deliberate practice teaches us that it is most effective to practice skills separate (e.g. practicing musical scales in isolation).
+There is a good decomposition of Go strength into Go skills.
 
-## Reading ease
+### Reading ease
 
 It is important that the reading is engaging. 
 This can be achieved through various means:
@@ -81,6 +82,6 @@ If you know other similar books, please let me know!
 
 ## Language
 
-The main advantage of english language allows faster creation of the book by allowing a wider family of strong players to contribute.
+The main advantage of english language allows faster creation of the content by allowing a wider family of strong players to contribute.
 The main advantage of other languages allows wider reading audience, especially children to access it.
 We will start with english, since we need to have a content first.

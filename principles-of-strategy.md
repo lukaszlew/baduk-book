@@ -1,3 +1,31 @@
+# Meta
+
+## Details on the principle lesson structure
+
+- Principle should have a memorable name, that one can easily refer to from memory.
+- The principle description should be as precise as possible.
+- We should try to move most of the example comment to the shared description.
+- We could illustate a principle with exceptions, surprising moves and famous moves.
+- Examples where it seems that principle works but it does not for some reason.
+
+## Ideas for examples and exercises
+
+- Variant 1: Move is given, the reader is to guess which principle was driving the move.
+- Variant 2: Several good and bad moves are given. The reader is to separate them and find principles for all of them.
+- Variant 3: Find a move for a given principle.
+
+In principle exercises, there should be as little tactical reading as possible.
+
+There are multiple dimensions on which positive examples might be contrasted with negative ones:
+- Fixed position: one position with several moves, discuss which principles apply to which moves and their relative strengths.
+- Fixed principle: one principle with several positions and moves, discsuu to which moves this principle applies and how strongly.
+
+To illustrate subtle diffeneces we can contrast:
+- take two similar principles and disscuss multiple positions where both apply but one or other principle is dominating, leading to a different judgement.
+- take two similar positions and disccuss how multiple principles apply differently.
+
+# Principles
+
 ## Atakuj z Dystansu (AzDy), Bron sie Kontaktem (BroKo)
 
 W Go jest odwrotnie niz w zyciu. Bronimy sie kontaktem, a atakujemy zostawiajac przynajmniej jedno pole przerwy.

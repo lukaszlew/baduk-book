@@ -45,7 +45,7 @@ Some ok tags: #attack-from-a-distance, #play-from-outside-not-inside, #nakade
 
 Organization of Go examples is not the end.
 We aim to provide good and effective Go lessons.
-We describe how to make a good lessons in [[effective-learning]].
+We describe how to make a good lessons in [effective-learning.md](effective-learning.md).
 
 ## Inspirational books
 

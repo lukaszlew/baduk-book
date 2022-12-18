@@ -82,17 +82,11 @@ Here I (Lukasz Lew) list other ideas that I know how to describe.
 
 ## Details on the principle lesson structure
 
-Principle should have a memorable name, that one can easily refer to from memory.
-The principle description should be as precise as possible.
-We should try to move most of the example comment to the general description.
-
-- Duza iloscia przykladow "Zly ruch bo nie podaza za pryncypium" z jak najmiejsza iloscia tekstu (tylko gdy potrzebna poprawka do pryncypium). 
-- Duza ilosc przykladow "Znajdz ruch do danego pryncypium" jako zadania z rozwiazaniem (lub wieloma) na nastepnej stronie.
-- W przykladach prawie nie trzeba czytac sekwencji.
-- Opis relacji do innych pryncypiow.
-- Wyjatki, zaskakujace ruchy, slawne ruchy.
-- Przyklady gdzie wydaje sie ze pryncypium mozna zastosowac ale bylby to blad gdyz inne pryncypium jest wazniejsze. 
-- Principle exercises: Find a move for a given principle. Answer on the next page or hidden, perhaps with a commentary or anecdote.
+- Principle should have a memorable name, that one can easily refer to from memory.
+- The principle description should be as precise as possible.
+- We should try to move most of the example comment to the shared description.
+- We could illustate a principle with exceptions, surprising moves and famous moves.
+- Examples where it seems that principle works but it does not for some reason.
 
 ## Positive and negative examples contrast
 
@@ -106,8 +100,13 @@ To illustrate subtle diffeneces we can contrast:
 
 ## Exercises
 
+
+There are several possible setups for exercises:
 - Variant 1: Move is given, the reader is to guess which principle was driving the move, which principle applied but has less importance.
 - Variant 2: Several good and bad moves are given. The reader is to separate them and find principles for all of them.
+- Variant 3: Find a move for a given principle.
+
+In principle exercises, there should be as little tactical reading as possible.
 
 ## AI use
 

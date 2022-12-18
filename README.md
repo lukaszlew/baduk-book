@@ -82,7 +82,10 @@ Here I (Lukasz Lew) list other ideas that I know how to describe.
 
 ## Details on the principle lesson structure
 
-- Zwarty opis tekstowy pasujacy do wiekszosci przykladow (wrecz definicja).
+Principle should have a memorable name, that one can easily refer to from memory.
+The principle description should be as precise as possible.
+We should try to move most of the example comment to the general description.
+
 - Duza iloscia przykladow "Zly ruch bo nie podaza za pryncypium" z jak najmiejsza iloscia tekstu (tylko gdy potrzebna poprawka do pryncypium). 
 - Duza ilosc przykladow "Znajdz ruch do danego pryncypium" jako zadania z rozwiazaniem (lub wieloma) na nastepnej stronie.
 - W przykladach prawie nie trzeba czytac sekwencji.

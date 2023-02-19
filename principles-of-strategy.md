@@ -83,3 +83,6 @@ Ruchy ktore nie zmienaja wzmacniaja / oslabiaja slabych grup ani moyo sa nudne. 
 Grajac wiekszosc gier w zyciu warto skupiac sie na tym zeby grac normalne ruchy, i nie dopasowywac swojej gry do tego czy przeciwnik przegrywa czy wygrywa.
 Wymuszanie bledow i ruchy asekuranckie sa kosztowne: To jest bardzo kuszace, ale zeby wymusic blad czesto gramy nieoptymalny lub wrecz zly ruch. Jezeli przeciwnik nie zrobi bledu to nasza przegrana sie pogarsz. Podobnie jezeli wygrywamy to myslimy ze mozemy sobie pozwolic na powolny ruch i nasza wygrana sie zmniejsza.
 Wymuszanie bledow i ruchy asekuranckie wchodza w nawyk i powstrzymuj rozwoj gracza. To jest bardzo duzy problem, zwlaszcza wymuszanie bledow. Tak sie dzieje bo sytematycznie zle oceniamy plansze.
+
+## Co robic na czasie przeciwnika?
+Przygotowujemy proste sekwencje w obszarach gry gdzie dawno sie nic nie dzialo. W koncu cos sie tak stanie, chocby i w yose. Bedziemy wtedy w byo yomi juz.

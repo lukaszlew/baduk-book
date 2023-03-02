@@ -5,3 +5,7 @@ Importance of familiarity of nakade stems from the importance of life and death.
 
 ## Examples
 ![image](https://user-images.githubusercontent.com/37749/222268090-e64bc43b-1701-43be-a853-a33ab87b310b.png)
+
+https://www.101weiqi.com/task/151270016/6/
+
+
